@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /user
+Disallow: /admin
+Disallow: /api
+User-agent: Baiduspider
+Disallow: /
